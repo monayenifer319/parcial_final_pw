@@ -1,0 +1,22 @@
+.encabezado{
+	background-image: url(../imagenes/biblio.jpeg);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 200px;
+	color:black;
+}
+.encabezado h1{
+	font-weight: bold;
+}
+footer{
+	background-color: #FACC2E;
+	height: 90px;
+	color:white;
+
+}
+.thumbnail{
+	margin-top: 30px;
+}
+.navbar{
+	background-color: #FACC2E;
+}
